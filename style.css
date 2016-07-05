@@ -1,8 +1,18 @@
-html, body{
+body{
 	padding: 3em, 20px
 	font-family:arial;
 	
 }
+.title{
+	color: green;
+}
+#orange {
+	color: blue;
+}
 
-
+.envoltura{
+	background-color: #36a4e2;
+	color: white;
+	padding: 20px
+}
 
